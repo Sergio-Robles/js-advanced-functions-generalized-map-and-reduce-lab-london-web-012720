@@ -1,6 +1,6 @@
 # JavaScript Advanced Functions: Generalized Map and Reduce Lab
 
-## Learning Goals
+## Learning Goals   
 
 - Define the term "callback"
 - Identify duplication that can be avoided with callbacks
